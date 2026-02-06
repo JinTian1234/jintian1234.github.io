@@ -42,7 +42,7 @@ education:
   position: M.S. in Mechanical Engineering
   date: Sep. 2019 - Jul. 2022
   - name: Hunan University of Science and Technology
-  logo: /assets/images/badges/PKU_red.png
+  # logo: /assets/images/badges/PKU_red.png
   position: B.S. in Mechanical Engineering
   date: Sep. 2015 - Jul. 2019
 
