@@ -1,6 +1,6 @@
 ---
 title:          "Trajectory following control of lower limb exoskeleton robot based on Udwadia–Kalaba theory"
-date:           2021-01-1 00:01:00 +0800
+date:           2022-01-1 00:01:00 +0800
 selected:       false
 pub:            "Journal of Vibration and Control,"
 # pub_pre:        "Submitted to "
