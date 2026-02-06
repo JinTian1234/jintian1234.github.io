@@ -6,7 +6,7 @@ positions:
 - name: Ph.D. candidate
 - name: Wearable assistive robotics
 - name: Harbin Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "jin.tian@stu.hit.edu.cn"
@@ -25,8 +25,6 @@ short_bio: >-
   <p>
     Jin Tian is currently pursuing a Ph.D. degree in mechanical engineering at the School of Mechatronics Engineering, Harbin Institute of Technology, Harbin, China. His research interests include wearable robotics, assistive technology, and human-machine interaction. He has done a wide range of work on design and control of exoskeletons, with the goal of developing wearable robotic systems that enhance the ability and quality of human lives.
   </p>
-  # <p>
-  # </p>
 
 portrait_url: /assets/images/photos/JinTian.jpg
 portrait_caption: >-
