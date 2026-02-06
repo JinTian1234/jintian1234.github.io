@@ -3,14 +3,15 @@ secondary_name: ""
 navbar_name: "Your Name"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: Ph.D. candidate
+- name: Wearable assistive robotics
+- name: Harbin Institute of Technology
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "jin.tian@stu.hit.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: Bj9-KIwAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
