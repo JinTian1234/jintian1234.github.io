@@ -33,9 +33,7 @@ portrait_caption: >-
 education:
 - name: Harbin Institute of Technology
   logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    # School of Mechatronics Engineering <br/>
-    Ph.D. Student
+  position: > Ph.D. Student
   date: Sep. 2022 - present
 - name: Xinjiang University
   logo: /assets/images/badges/PKU_red.png
