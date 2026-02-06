@@ -31,6 +31,10 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
+- name: Technische Universität München
+  logo: /assets/images/badges/TUM.png
+  position: Visiting Ph.D.
+  date: Sep. 2022 - present 
 - name: Harbin Institute of Technology
   logo: /assets/images/badges/HIT.png
   position: Ph.D. in Mechanical Engineering
