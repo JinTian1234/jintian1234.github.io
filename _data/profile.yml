@@ -12,13 +12,15 @@ positions:
 email: "jin.tian@stu.hit.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: Bj9-KIwAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
+researchgate: https://www.researchgate.net/profile/Jin-Tian-17
+orcid: 0000-0003-0638-4431
 github: JinTian1234
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
-orcid: 0000-0003-0638-4431
+
 
 short_bio_text_justify: false
 short_bio: >-
@@ -57,7 +59,13 @@ education:
 awards:
 - name: CSC Scholarship
   date: 2025
+- name: Outstanding Graduate Student, Harbin Institute of Technology
+  date: 2023
 - name: Provincial Excellent Master's Thesis, Xinjiang
   date: 2022
+- name: Outstanding graduates and Excellent Master's Thesis, Xinjiang University
+  date: 2022
+- name: Outstanding Graduate Student, Xinjiang University
+  date: 2021
 - name: National Scholarship, Ministry of Education of the People's Republic of China
   date: 2021
