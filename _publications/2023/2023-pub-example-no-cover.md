@@ -13,7 +13,7 @@ pub_date:       "2021"
 # cover:          /assets/images/covers/cover3.jpg
 authors:
   - Jin Tian
-  - Liang. Yuan*
+  - Liang. Yuan#
   - Wendong. Xiao
   - Teng. Ran
   - Li. He
