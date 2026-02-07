@@ -1,7 +1,7 @@
 ---
 title:          "A Systematic Review of Occupational Shoulder Exoskeletons for Industrial Use: Mechanism Design, Actuators, Control, and Evaluation Aspects"
 date:           2024-12-1 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Actuators,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
