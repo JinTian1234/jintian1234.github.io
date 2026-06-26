@@ -1,5 +1,5 @@
 ---
-title:          "A quasi-passive lockable shoulder exoskeleton with load adaptability for assisting both static and dynamic tasks"
+title:          "A Quasi-Passive Lockable Shoulder Exoskeleton with Load Adaptability for Assisting Both Static and Dynamic Tasks"
 date:           2026-06-26 00:01:00 +0800
 selected:       false
 pub:            "Biomimetic Intelligence and Robotics,"
