@@ -10,7 +10,7 @@ pub_date:       "2026"
 
 # abstract: >-
   # When the cover image is not provided, it will generate a random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
-cover:          /assets/images/covers/2025_RAL.png
+cover:          /assets/images/covers/2026-BIROB.png
 authors:
   - Jin. Tian
   - Baichun. Wei
