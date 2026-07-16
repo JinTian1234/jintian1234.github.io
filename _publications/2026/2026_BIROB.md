@@ -21,6 +21,6 @@ authors:
   - Haiqi. Zhu
   - Chunzhi. Yi#
 links:
-  # Paper: https://ieeexplore.ieee.org/document/11231330
-  # Demo: https://luost26.github.io/bubble-visual-hash
+   Paper: https://www.sciencedirect.com/science/article/pii/S2667379726000859?via%3Dihub
+   Demo: https://www.sciencedirect.com/science/article/pii/S2667379726000859?via%3Dihub#appSB
 ---
