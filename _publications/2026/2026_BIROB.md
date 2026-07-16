@@ -22,5 +22,5 @@ authors:
   - Chunzhi. Yi#
 links:
    Paper: https://www.sciencedirect.com/science/article/pii/S2667379726000859?via%3Dihub
-   Demo: https://www.sciencedirect.com/science/article/pii/S2667379726000859?via%3Dihub#appSB
+   Demo: https://ars.els-cdn.com/content/image/1-s2.0-S2667379726000859-mmc1.mp4
 ---
